@@ -1,0 +1,23 @@
+p{
+	color: red;
+}
+body{
+	background-color: lightblue;
+}
+#img1,#img2,#img3{
+	width: 100px;
+	height: 100px;
+}
+.parent{
+	background-color: #deccc8;
+	margin: 10%;
+	padding: 10px;
+	display: flex;
+}
+.x1,.x2,.x3{
+	margin: 4%;
+	box-shadow: 4px 4px 4px 4px;
+	text-align: center;
+	background-color: #27d9d9;
+	border-radius: 6px;
+}
